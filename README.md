@@ -20,13 +20,18 @@
 
 
 * **目标检测**
-	* YOLO V3 
+	* YOLO V1
+	* YOLO V2
+	* YOLO V3
+	* YOLO V3-SPP
 
 
 
 
 * **关键点检测**
 	* HRNet （已完成：2023年6月）
+		* coco: F:\code\pytorch_keypoint\HRNet
+        * other: C:\code_zone\HRNet_
 
 
 
