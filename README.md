@@ -9,12 +9,14 @@
 ## CV_code
 * **图像分类**
 	* VGG
+	* ResNet
 
 
 
 
 * **语义分割**	
 	* UNet 	
+	* U2Net
 
 
 
